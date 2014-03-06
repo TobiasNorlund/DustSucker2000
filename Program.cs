@@ -10,6 +10,7 @@ namespace DustSucker2000
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
