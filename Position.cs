@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DustSucker2000
 {
-    struct Position
+    class Position
     {
         public int x { get; set;}
         public int y { get; set;}
